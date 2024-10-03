@@ -1,4 +1,4 @@
-# Movie Recommendation System 🎬
+# Movie Recommendation System 
 
 A content-based movie recommendation system that suggests similar movies based on the metadata of movies like genres, cast, crew, and keywords. The system utilizes technique like vectorization to recommend movies from a dataset of 5000+ movies.
 
