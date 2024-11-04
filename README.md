@@ -42,15 +42,12 @@ The web app allows users to:
 - Get 5 similar movie recommendations based on content similarity.
 
 ## Installation and Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/movierecommendation.git
-   ```
-2. Install the required dependencies:
+
+1. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
