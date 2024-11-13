@@ -51,6 +51,10 @@ The web app allows users to:
    ```bash
    streamlit run app.py
    ```
+3. Or, you can type the following url in browser to go to the website:
+   ```bash
+   http://localhost:8501/
+   ```
 
 ## Dependencies
 - **Pandas**
